@@ -1,0 +1,33 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/shakhaqu/IdeaProjects/Checkout/target/scala-2.13/checkout_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SpecialPrice.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shakhaqu/IdeaProjects/Checkout/target/scala-2.13/classes/SpecialPrice.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shakhaqu/IdeaProjects/Checkout/target/scala-2.13/classes/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	A$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shakhaqu/IdeaProjects/Checkout/target/scala-2.13/classes/A$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shakhaqu/IdeaProjects/Checkout/target/scala-2.13/classes/C$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	B.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shakhaqu/IdeaProjects/Checkout/target/scala-2.13/classes/B.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SKU.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shakhaqu/IdeaProjects/Checkout/target/scala-2.13/classes/SKU.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	D.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shakhaqu/IdeaProjects/Checkout/target/scala-2.13/classes/D.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	D$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shakhaqu/IdeaProjects/Checkout/target/scala-2.13/classes/D$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	A.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shakhaqu/IdeaProjects/Checkout/target/scala-2.13/classes/A.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CheckOut$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shakhaqu/IdeaProjects/Checkout/target/scala-2.13/classes/CheckOut$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shakhaqu/IdeaProjects/Checkout/target/scala-2.13/classes/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SpecialPrice$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shakhaqu/IdeaProjects/Checkout/target/scala-2.13/classes/SpecialPrice$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CheckOut.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shakhaqu/IdeaProjects/Checkout/target/scala-2.13/classes/CheckOut.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shakhaqu/IdeaProjects/Checkout/target/scala-2.13/classes/C.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	B$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shakhaqu/IdeaProjects/Checkout/target/scala-2.13/classes/B$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

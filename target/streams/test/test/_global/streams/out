@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(CheckOutTest, org.scalatest.tools.Framework$$anon$1@11b45544, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCheckOutTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCheckout[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not apply special price if discount quantity of SKU is not met[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should correctly apply discount if discount quantity of SKU is met[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not apply discount if no special prices are available[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should accept items in any order and apply correct discount[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return 0 if no items in customers basket and no special prices[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 114 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 5[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 5, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CheckOutTest[0m
