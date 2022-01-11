@@ -1,10 +1,6 @@
 [0m[[0m[0mdebug[0m] [0m[0mChange report:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Checked: /Users/shakhaqu/IdeaProjects/Checkout/src/main/scala/SpecialPrice.scala, /Users/shakhaqu/IdeaProjects/Checkout/src/main/scala/SKU.scala, /Users/shakhaqu/IdeaProjects/Checkout/src/main/scala/CheckOut.scala, /Users/shakhaqu/IdeaProjects/Checkout/src/main/scala/Main.scala[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Modified: /Users/shakhaqu/IdeaProjects/Checkout/src/main/scala/SpecialPrice.scala, /Users/shakhaqu/IdeaProjects/Checkout/src/main/scala/SKU.scala, /Users/shakhaqu/IdeaProjects/Checkout/src/main/scala/CheckOut.scala, /Users/shakhaqu/IdeaProjects/Checkout/src/main/scala/Main.scala[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Unmodified: [0m
-[0m[[0m[0mdebug[0m] [0m[0m	Added: /Users/shakhaqu/IdeaProjects/Checkout/src/main/scala/SpecialPrice.scala, /Users/shakhaqu/IdeaProjects/Checkout/src/main/scala/SKU.scala, /Users/shakhaqu/IdeaProjects/Checkout/src/main/scala/CheckOut.scala, /Users/shakhaqu/IdeaProjects/Checkout/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Modified: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	Unmodified: /Users/shakhaqu/IdeaProjects/Checkout/src/main/scala/SpecialPrice.scala, /Users/shakhaqu/IdeaProjects/Checkout/src/main/scala/SKU.scala, /Users/shakhaqu/IdeaProjects/Checkout/src/main/scala/CheckOut.scala, /Users/shakhaqu/IdeaProjects/Checkout/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Added: [0m
 [0m[[0m[0mdebug[0m] [0m[0m	Removed: [0m
-[0m[[0m[0minfo[0m] [0m[0mFormatting 4 Scala sources...[0m
-[0m[[0m[0mdebug[0m] [0m[0mparsed config (v2.6.4): /Users/shakhaqu/IdeaProjects/Checkout/.scalafmt.conf[0m
-[0m[[0m[0mdebug[0m] [0m[0mAdding repositories [https://repo1.maven.org/maven2/][0m
-[0m[[0m[0minfo[0m] [0m[0mReformatted 4 Scala sources[0m
