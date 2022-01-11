@@ -1,4 +1,3 @@
-
 sealed trait SKU { val price: Double }
 
 case object A extends SKU { val price: Double = 50 }
